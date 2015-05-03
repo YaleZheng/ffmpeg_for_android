@@ -2,7 +2,7 @@
 a toolkit to build customize ffmpeg binary for android
 
 ##Author
-[Yale.Zheng](email:yale.zheng@icloud.com)
+[Yale.Zheng](mailto://yale.zheng@icloud.com)
 
 ##使用指南
 1.	配置build-android.sh中的NDK_ROOT变量
