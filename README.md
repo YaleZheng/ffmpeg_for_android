@@ -1,5 +1,5 @@
 # ffmpeg_for_android
-a toolkit to build customize ffmpeg binary for android
+a toolkit to build customize ffmpeg binary for android with ndk-r10c
 
 ##Author
 [Yale.Zheng](mailto://yale.zheng@icloud.com)
