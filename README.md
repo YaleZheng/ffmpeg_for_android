@@ -14,3 +14,8 @@ a toolkit to build customize ffmpeg binary for android with ndk-r10
 +	系统:OSX
 +	系统版本:Yosemite
 +	ndk版本:ndk-r10c	
+
+##接下来的计划
++	新增Android.mk的模板
++	编写集成指南
++	编写ffmpeg精简指南
